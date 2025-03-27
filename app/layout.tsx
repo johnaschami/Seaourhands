@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Coming Soon | NGO",
+  title: "Coming Soon!",
   description: "Our website is coming soon. Stay tuned for updates!",
   generator: 'v0.dev',
   icons: {
